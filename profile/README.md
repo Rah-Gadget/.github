@@ -18,3 +18,6 @@ Kami menawarkan berbagai macam konten yang informatif dan menarik tentang gadget
 
 ### Kesimpulan<br>
 Rah Gadget adalah saluran terbaik untuk rekomendasi dan edukasi tentang gadget. Kami berusaha membantu Anda memilih gadget terbaik yang sesuai dengan kebutuhan dan anggaran Anda, serta memberikan edukasi tentang teknologi dan fitur-fitur gadget yang perlu Anda ketahui. Bergabunglah dengan kami sekarang dan jadilah pembeli gadget yang lebih bijak!
+
+### Lihat Kami
+<a href="https://www.youtube.com/@RahGadget">Rah Gadget Youtube</a>
